@@ -11,7 +11,7 @@
 [https://github.com/LiuYangArt/sutu-releases/releases](https://github.com/LiuYangArt/sutu-releases/releases)
 
 blender连接插件
-[https://github.com/LiuYangArt/sutu_blender_bridge/](https://github.com/LiuYangArt/sutu_blender_bridge)
+[https://github.com/LiuYangArt/sutu-blender-bridge](https://github.com/LiuYangArt/sutu-blender-bridge)
 
 ## bug反馈和新功能需求
 
