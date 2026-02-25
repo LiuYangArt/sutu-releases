@@ -4,6 +4,8 @@
 使用gpu compute shader笔刷，对显卡/显存有一定要求。
 目标是做一个接近ps绘画体验的轻量级项目。
 支持ps的abr笔刷文件导入，支持大部分经典笔刷属性。
+<img width="2104" height="1397" alt="image" src="https://github.com/user-attachments/assets/f1dbfff9-f476-46a9-b3d2-0735c182ff78" />
+
 
 ## 下载
 
