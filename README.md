@@ -17,7 +17,3 @@ blender连接插件
 
 在此提交issue [https://github.com/LiuYangArt/sutu-releases/issues](https://github.com/LiuYangArt/sutu-releases/issues)
 
-## 许可证
-
-本项目采用 GNU General Public License v3.0（GPL-3.0-only）。
-完整条款见仓库根目录 `LICENSE`。
