@@ -22,5 +22,7 @@ blender连接插件
 
 ## bug反馈和新功能需求
 
-在此提交issue [https://github.com/LiuYangArt/sutu-releases/issues](https://github.com/LiuYangArt/sutu-releases/issues)
+Discord [https://discord.gg/nuW2KAkJEj](https://discord.gg/nuW2KAkJEj)
+
+或者在此提交issue [https://github.com/LiuYangArt/sutu-releases/issues](https://github.com/LiuYangArt/sutu-releases/issues)
 
